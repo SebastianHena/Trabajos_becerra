@@ -1,0 +1,8 @@
+#cbo-carga{
+    border-radius: 20px;
+    border-color: brown;
+    background-color: rgb(8, 8, 8);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style:dashed;
+    color: white;
+}
