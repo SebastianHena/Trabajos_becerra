@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto;
+}
+#cuerpo{
+    height: 255px;
+    width: 230px;
+    background-color: rgb(104, 104, 104);
+    border-radius: 15px;
+}
+#art{
+    width: 240px;
+    float: left;
+}
+#head{
+    margin-top: 20px;
+    width: 220px;
+    height: 30px;
+    background-color: rgb(100, 100, 100);
+    border-radius: 15px;
+}
+#screen{
+    width: 180px;
+    height: 20px;
+    margin-left: 22px;
+    margin-top: 4px;
+    background-color: rgb(74, 120, 74);
+    border-radius: 15px;
+}
+#body{
+    width: 20%;
+    height: 210px;
+    float: left;
+}
+.btn{
+    margin-left: 25px;
+    margin-top: 25px;
+    float: left;
+    border-radius: 50px;
+}
+#igual{
+    width: 500%;
+    margin-left: 180px;
+}
+#b{
+    margin-top: 28px;
+    width: 2%;
+    height: 165px;
+    border-color: black;
+}
